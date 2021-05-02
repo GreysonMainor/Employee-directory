@@ -1,54 +1,58 @@
 # Employee-directory
-## Overview
+![Getting Started](./assets/PWA-app-screenshot.png)
+![Getting Started](./assets/PWA-screenshot-heroku.png)
+![Getting Started](./assets/PWA-screenshot1.png)
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
-## User Story
+## Description
+This Application allows a user to search up employees based on a characteristic of the employee.
+ ## Table of contents
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+-[Installation](#installation)
 
-## Business Context
+-[Deployed](#Deployed)
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+-[Usage](#usage)
 
-## Acceptance Criteria
+-[License](#license)
 
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
+-[Contributing](#contributing)
 
-The user should be able to:
+-[Tests](#tests)
 
-  * Sort the table by at least one category
+-[Questions](#questions)
 
-  * Filter the users by at least one property.
+## Installation
 
-## Commit Early and Often
+In order to run this script you have to have the following things downloaded using npx create-react-app "Name of directory".
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+## Deployed
+https://greysonmainor.github.io/Employee-directory/
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+## Usage
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+This application is web based and as such can only be used to view the code I have written.  It is also deployed to github pages.
+## License
 
-Follow these guidelines for committing:
+N/A
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
+## Contributing
+Contributing to this file is not yet available as it is a personal homework project.  Check back in the future for other projects to contribute on.
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+## Tests
 
-* Test your application before you commit to ensure functionality at every step in the development process
+To run tests, run the following command:
 
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+```
+N/A
+```
 
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
+## Questions
 
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
+### Github:
+github.com/GreysonMainor
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
+### Email:
+gbmainor98@outlook.com
+  
